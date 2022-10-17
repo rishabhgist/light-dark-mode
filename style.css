@@ -183,6 +183,10 @@ p {
   color: var(--on-background);
 }
 
+#mode {
+  transition: .2s;
+}
+
 /* Dark Mode Toggle */
 .theme-switch-wrapper {
   display: flex;
